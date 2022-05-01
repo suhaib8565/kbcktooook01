@@ -9,17 +9,33 @@ CHANNEL_LINK = "https://t.me/DroneBots"
 
 SUPPORT_LINK = "https://t.me/TeamDrone"
 
-info_text = "This bot is developed by @ChauhanMahesh\n\nWritten in python library TELETHON.\n\nBot by : @DroneBots\nSupport : @TeamDrone\n\nV1.1"   
+info_text = "This bot is developed by @MaheshChauhan\n\nWritten in python library TELETHON.\n\nBot by : @DroneBots\nSupport : @TeamDrone\n\nV1.4"   
 
-help_text = "Send me any media file to know the stuffs i can do.\n\ncompress - negligible loss compression\nconvert - change formats or extract audio of any video\nrename - rename any file, extension not required\ntrim - cut your videos" 
+help_text = """**v1.4**
 
-source_text = "Deploy your own bot.\n\nMain branch - Personal use\nPublic branch - For your channel"
+•`Encode` - encode your video into different lib format or resolution
 
-DEV = "https://t.me/ChauhanMahesh"
+•`HEVC compress` - negligible loss compression
 
-spam_notice = "This bot is hosted on heroku, and hence can run just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
+•`FAST compress` - Very fast and Efficient compression
+
+•`Convert` - change formats or extract audio of any video
+
+•`Rename` - rename any file, extension not required
+
+•`SSHOTS` - generate 10 screenshots of your video
+
+•`Trim` - cut your videos"""
+
+source_text = "**Deploy your own bot**"
+
+DEV = "https://t.me/The_dsr"
+
+spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
 JPG = "LOCAL/video_convertor.jpg"
+
+JPG0 = 'https://telegra.ph/file/d98c559b56ef884ef3bad.jpg'
 
 JPG2 = "LOCAL/20211215_165751.jpg"
 
